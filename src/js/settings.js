@@ -3,6 +3,23 @@ export const select = {
     home: '#template-home-page',
     depression: '#depression-tests',
     burnout: '#burnout-tests',
+  },
+  containerOf: {
+    home: '#home-page',
+    tests: '#tests-page',
+    pages: '#pages'
+  },
+  nav: {
+    links: '.main-nav a',
+  }
+};
+
+export const classNames = {
+  pages: {
+    active: 'active',
+  },
+  nav: {
+    active: 'active',
   }
 };
 

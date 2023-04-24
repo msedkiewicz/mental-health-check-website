@@ -11,3 +11,14 @@ Next steps include writing testing logic in JavaScript, so the user can fill in 
 
 ## Installation
 
+To install packages necessary for development, use **npm install** command.
+
+To run app on localhost:3000, use **npm run watch**. If screen shows *Cannot Get /* error and console screams about CORS policy try hard refreshing (**Ctrl + SHIFT + R**). Curretly I have no idea what causes this bug, but probably it's use of Handlebars on HomePage.
+
+## Credits
+
+This project is build with help of (...)
+
+## License
+
+Information about licensing will be provided soon.

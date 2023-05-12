@@ -11,6 +11,11 @@ export const select = {
   },
   nav: {
     links: '.main-nav a',
+  },
+  hspTest: {
+    quiz: '#hspquiz',
+    submit:'#hspsubmit',
+    results: '#hspresults',
   }
 };
 
